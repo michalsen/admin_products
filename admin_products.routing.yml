@@ -1,0 +1,7 @@
+cncexproducts.admind:
+  path: '/admin/products'
+  defaults:
+    _controller: '\Drupal\admin_products\Controller\AdminProducts::product_list'
+    _title: 'Salesforce Products'
+  requirements:
+    _permission: 'admin content'

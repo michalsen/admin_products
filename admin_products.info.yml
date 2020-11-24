@@ -1,0 +1,5 @@
+name: Admin Products
+type: module
+description: 'Salesforce Product List'
+core: 8.x
+package: Michalsen
